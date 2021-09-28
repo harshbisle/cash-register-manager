@@ -7,7 +7,7 @@ A cash register manager app which helps the user by telling how can he/she retur
 
 
 # Problem Statement
-#### [live project]()
+#### [live project](https://simplecash-register-manager.netlify.app/)
 
 # How to use:
  - Enter the bill amount you have to pay & click on **Next**
